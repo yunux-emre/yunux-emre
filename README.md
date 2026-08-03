@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yunux-emre/yunux-emre/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/yunux-emre/yunux-emre/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
